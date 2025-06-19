@@ -36,4 +36,11 @@ The objective of this project is to leverage Power BI to visualize and analyze b
 - Loan Purpose Breakdown  
 - Home Ownership Analysis  
 
+# Summary Dashboard
+![Summary](https://github.com/user-attachments/assets/7a22ffc8-b02f-46de-a694-556987458ec9)
+# Overview Dashboard
+![Overview](https://github.com/user-attachments/assets/98489de0-aa54-4698-b622-f7984369736e)
+
+
+
 
